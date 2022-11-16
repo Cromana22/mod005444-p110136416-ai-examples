@@ -1,0 +1,6 @@
+OutputAdvice,Headache,SoreThroat,Coughing,Tired
+Painkiller,1,0,0,0 
+Flu,1,1,1,0
+GlandularFever,1,0,0,1 
+Tonsilitis,0,1,0,1 
+Stress,0,0,0,1
